@@ -1,9 +1,9 @@
 module.exports = {
-    TOKEN: "",
-    ownerID: [""], //write your discord user id. example: ["id"] or ["id1","id2"]
-    botInvite: "", //write your discord bot invite.
+    TOKEN: "7534657356:AAEvEUzyeDQivy_tEJi3HwKsyF2wor-eTw0",
+    ownerID: ["6465560608"], //write your discord user id. example: ["id"] or ["id1","id2"]
+    botInvite: "7534657356", //write your discord bot invite.
     supportServer: "", //write your discord bot support server invite.
-    mongodbURL: "", //write your mongodb url.
+    mongodbURL: "mongodb+srv://AbishnoiMusic:AbishnoiMusic29@cluster0.k7sfn.mongodb.net/?retryWrites=true&w=majority", //write your mongodb url.
     status: '❤️ codeshare.me',
     commandsDir: './commands', //Please don't touch
     language: "en", //ar, de, en, es, fr, id, it, ja, nl, pt, ru, tr, zh_TW
